@@ -1,0 +1,6 @@
+{
+  "project": "./tsconfig.json",
+  "error": true,
+  "ignore": "/(.*.page.tsx)|(.*.page.(server|client).tsx)/g",
+  "allowUnusedTypes": false
+}
