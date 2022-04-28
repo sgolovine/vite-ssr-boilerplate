@@ -20,3 +20,7 @@ src/root          # app root files
 src/components    # app components
 server            # scripts for rendering the site in SSR mode.
 ```
+
+## Additional Resources
+
+[TailwindCSS](https://tailwindcss.com/docs/guides/vite)
